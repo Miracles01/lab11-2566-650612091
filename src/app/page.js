@@ -226,7 +226,7 @@ export default function RegisFormPage() {
         I agree to the terms and conditions
       </div>
 
-      {/* Register Button */}
+      {/* Register Buttonnn */}
       <button
         className="btn btn-success my-2"
         onClick={registerBtnOnClick}
